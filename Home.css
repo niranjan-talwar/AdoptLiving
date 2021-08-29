@@ -1,0 +1,64 @@
+#mn{
+    text-align: center;
+    background: url(Pics/d2.jpg) center;
+    background-size: cover;
+}
+
+#Bg{
+    text-align: center;
+}
+
+.inline{
+    display: inline;
+    color: black;
+}
+
+#ts1{
+    padding-left: 10px;
+}
+
+.H2{
+    color: black;
+}
+
+.frameblock{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.texts{
+    color: blanchedalmond;
+}
+
+#help{
+    text-align: center;
+    color: whitesmoke;
+    padding-left: 15px;
+}
+
+#hlp{
+    background-color: gray;
+}
+
+#padd{
+    padding-left: 60px;
+    color: black;
+}
+
+#link{
+    padding-left: 60px;
+}
+
+#SU{
+    text-align: center;
+    color: black;
+}
+
+#email{
+    background-color: rgb(133, 133, 247);
+    /* padding-bottom: 10px; */
+}
+
+#coptright{
+    color: beige;
+}
